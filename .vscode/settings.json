@@ -1,0 +1,4 @@
+{
+  // link: https://github.com/aws/aws-cdk/issues/20873
+  "vitest.commandLine": "npx vitest --pool forks"
+}
