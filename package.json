@@ -21,8 +21,8 @@
     "yeoman-generator": "^7.1.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^18.4.3",
-    "@commitlint/config-conventional": "^18.4.3",
+    "@commitlint/cli": "^19.0.0",
+    "@commitlint/config-conventional": "^19.0.0",
     "@types/yeoman-assert": "^3.1.4",
     "@types/yeoman-generator": "^5.2.14",
     "@types/yeoman-test": "^4.0.6",
